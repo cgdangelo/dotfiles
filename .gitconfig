@@ -1,0 +1,9 @@
+[user]
+    name = Charles D'Angelo
+    email = c.g.dangelo@gmail.com
+[merge]
+    ff = false
+[core]
+    autocrlf = input
+[color]
+    ui = auto
